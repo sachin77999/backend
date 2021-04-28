@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>MobileStore</title>
+</head>
+<body>
+<h1>Mobiles</h1>
+{{$name}}
+</body>
+</html>
